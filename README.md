@@ -1,5 +1,5 @@
 # 💫 About Me:
-I Am currently looking for job <br>I have completed my Masters in Artificial Intelligence in Dublin <br>I have 10+ years of experience as Microsoft SQL server DBA <br>I have experience in Power Bi and Python
+I Am currently looking for job <br>I have completed my Masters in Artificial Intelligence in Dublin <br>I have 10+ years of experience as Microsoft SQL server DBA/Senior Database Enginner <br>I have experience in Power Bi and Python
 
 
 ## 🌐 Socials:
